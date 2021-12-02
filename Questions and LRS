@@ -1,0 +1,20 @@
+Hw 11 Questions
+
+1.	Deep Learning (DL) is a subset of Machine Learning (ML) that is focused on passing data through neural networks to better the accuracy of a predictive task. 
+The neural networks typically consist of multiple layers. Some layers allow input, others provide output, and some layers are hidden. When data is passed into the neural network, 
+it is the networks job to then send that data to a node further in the network that can provide a more accurate depiction of the data. This process of sending a piece of data 
+through nodes for increased accuracy is performed until the data has reached the last node for handling that type of data. An example of DL would be in an application involving 
+language recognition and dialect recognition. With this, the machine would have data on every language, then the machine would take input and further categorize languages into 
+different dialects depending on differences between input of the same language.
+
+2.	GitHub is an online repository service where users can post the source code of their programs. The purpose of GitHub is to promote open source software. On the GitHub website 
+or desktop application, a user can view programs submitted, and even request to make edits to the program where needed. Similarly, the author of a program can give other users the 
+privilege to be a moderator of their program. GitHub can be used to allow multiple people to contribute to a single program. One drawback of GitHub is that it is not entirely 
+free. If an entire team were to need all of its features (code owners, draft pull requests, scheduled reminders, automatic code review assignment) it would become very pricey.
+
+LRS
+
+This project was of moderate difficulty. I was able to complete all required tasks successfully. One error that I ran into was the value ‘acc’ was not working properly. 
+In the submitted code, on line 49,50,80,81,118,119 all values used to be ‘acc’ but were changed to ‘accuracy’ as needed. This assignment took me about an hour to complete. 
+After completing this assignment, I feel slightly more comfortable at grasping the idea of deep learning and what goes into it, but not implementing it on my own. 
+All in all, this homework assignment has been very useful, and the step-by-step guides provided made following along with the project a very enjoyable task.
